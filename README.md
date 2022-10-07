@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Oliveira!
 
-- 🔭 Desenvolvedor Back-End
+- 🔭 Desenvolvedor Back-End / Mobile
 
 <div align="center">
   <a href="https://github.com/lucasvini382">
